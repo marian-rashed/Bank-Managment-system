@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1708607821 source:c:\users\org\desktop\pro2\main.cpp
+	<iostream>
+	"Bank.h"
+	"Teller.h"
+	"Customer.h"
+
+1708608414 c:\users\org\desktop\pro2\include\bank.h
+	"Teller.h"
+	"Customer.h"
+	<iostream>
+	<queue>
+	<ctime>
+
+1708607319 c:\users\org\desktop\pro2\include\teller.h
+	"Customer.h"
+
+1708607148 c:\users\org\desktop\pro2\include\customer.h
+	<iostream>
+	<string>
+
